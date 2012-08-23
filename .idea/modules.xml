@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CCipher/CCipher.iml" filepath="$PROJECT_DIR$/CCipher/CCipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CubeAnts/CubeAnts.iml" filepath="$PROJECT_DIR$/CubeAnts/CubeAnts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DivisorDigits/DivisorDigits.iml" filepath="$PROJECT_DIR$/DivisorDigits/DivisorDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseMachine/ExerciseMachine.iml" filepath="$PROJECT_DIR$/ExerciseMachine/ExerciseMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageDithering/ImageDithering.iml" filepath="$PROJECT_DIR$/ImageDithering/ImageDithering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KingXNewBaby/KingXNewBaby.iml" filepath="$PROJECT_DIR$/KingXNewBaby/KingXNewBaby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KingdomAndTrees/KingdomAndTrees.iml" filepath="$PROJECT_DIR$/KingdomAndTrees/KingdomAndTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaCoolNumbers/MegaCoolNumbers.iml" filepath="$PROJECT_DIR$/MegaCoolNumbers/MegaCoolNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MonochromaticBoard/MonochromaticBoard.iml" filepath="$PROJECT_DIR$/MonochromaticBoard/MonochromaticBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParameterSubstitution/ParameterSubstitution.iml" filepath="$PROJECT_DIR$/ParameterSubstitution/ParameterSubstitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PouringWater/PouringWater.iml" filepath="$PROJECT_DIR$/PouringWater/PouringWater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedAndGreen/RedAndGreen.iml" filepath="$PROJECT_DIR$/RedAndGreen/RedAndGreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRMCards/SRMCards.iml" filepath="$PROJECT_DIR$/SRMCards/SRMCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignatureDecorator/SignatureDecorator.iml" filepath="$PROJECT_DIR$/SignatureDecorator/SignatureDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreetParking/StreetParking.iml" filepath="$PROJECT_DIR$/StreetParking/StreetParking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheTournamentDivTwo/TheTournamentDivTwo.iml" filepath="$PROJECT_DIR$/TheTournamentDivTwo/TheTournamentDivTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time/Time.iml" filepath="$PROJECT_DIR$/Time/Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeTravellingCellar/TimeTravellingCellar.iml" filepath="$PROJECT_DIR$/TimeTravellingCellar/TimeTravellingCellar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeTravellingGardener/TimeTravellingGardener.iml" filepath="$PROJECT_DIR$/TimeTravellingGardener/TimeTravellingGardener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopCoder.iml" filepath="$PROJECT_DIR$/TopCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeScore/YahtzeeScore.iml" filepath="$PROJECT_DIR$/YahtzeeScore/YahtzeeScore.iml" />
+    </modules>
+  </component>
+</project>
+
